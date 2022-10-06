@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    margin-top: 30px;
+
+}
+.table1{
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+.col1{
+    font-weight: bold;
+    border: 1px solid black;
+    text-align: center;
+}
+.th1{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.weight{
+    margin-bottom: 20px;
+}
+.Red{
+    background-color: red;
+    font-weight: bold;
+    padding: 2px;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+}
+.Green{
+    background-color: rgb(16, 214, 52);
+    font-weight: bold;
+    padding: 2px;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+}
+.Gray{
+    background-color: rgb(167, 163, 163);
+    font-weight: bold;
+    padding: 2px;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+}
+.btn{
+    margin-left: 10px;
+    padding: 2px 10px;
+}
